@@ -20,7 +20,7 @@ public class Kafe18 {
          jmlKopi = input.nextInt(); 
          System.out.print("Masukkan jumlah pembelian teh: ");
          jmlTeh = input.nextInt(); 
-         System.out.print("MAasukkan jumlah pembelian roti: ");
+         System.out.print("Masukkan jumlah pembelian roti: ");
          jmlRoti = input.nextInt();
          
          //total
